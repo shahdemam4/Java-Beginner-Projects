@@ -23,3 +23,15 @@ A simple Java console application that calculates the total price of purchased i
 - Variables
 - Arithmetic Operations
 - Console Output
+
+
+# Discount Calculator
+
+A simple Java program that calculates the final price of a product after applying a discount.
+
+## Concepts Practiced
+- User Input
+- Variables
+- Arithmetic Operations
+- Conditional Statements
+- Basic Java Syntax
