@@ -29,6 +29,22 @@ A simple Java console application that calculates the total price of purchased i
 
 A simple Java program that calculates the final price of a product after applying a discount.
 
+
+
+
+
+# Compound Interest Calculator
+
+A Java program that calculates compound interest using the principal amount, interest rate, and number of compounding periods.
+
+## Concepts Practiced
+- User Input
+- Variables
+- Arithmetic Operations
+- Math.pow()
+- Type Casting
+- Basic Java Syntax
+
 ## Concepts Practiced
 - User Input
 - Variables
